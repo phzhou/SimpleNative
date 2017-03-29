@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simple Native Sample</string>
+
+    <string name="show_interstitial">Show Interstitial</string>
+
+    <string name="placement_id_interstitial">YOUR_PLACEMENT_ID</string>
 </resources>

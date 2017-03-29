@@ -32,7 +32,15 @@
             <include layout="@layout/item_main" />
 
             <include layout="@layout/item_main" />
+
         </LinearLayout>
+
+        <Button
+            android:id="@+id/show_interstitial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/show_interstitial" />
 
     </LinearLayout>
 
