@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.sample.flipanimation.MainActivity">
+    tools:context="com.sample.simplenative.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -21,14 +21,6 @@
             <include layout="@layout/item_main" />
 
             <include layout="@layout/item_main" />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:orientation="horizontal"
-            android:id="@+id/native_ad_container"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
 
         </LinearLayout>
 
